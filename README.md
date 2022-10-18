@@ -5,7 +5,7 @@
   <a href="https://github.com/AnubisWallid">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnubisWallid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnubisWallid&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+</div align="center">
 <div style="display: inline_block"><br>
   <img align="center" alt="wallid-android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" />
   <img align="center" alt="wallid-andStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" />
@@ -20,8 +20,11 @@
   <img align="center" alt="wallid-visualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 </div>
   <hr>
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/wallid-santana-786480227/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/wallid___santana/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://chat.whatsapp.com/JGZKryQDMQiEGqakcncmLc" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://github.com/AnubisWallid/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<div align="center">
+  ![Snake animation](https://github.com/AnubisWallid/AnubisWallid/blob/output/github-contribution-grid-snake.svg)
+</div>
